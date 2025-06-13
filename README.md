@@ -1,4 +1,5 @@
-📊 TANF Client Services Dashboard
+# 📊 TANF Client Services Dashboard
+
 This Tableau project analyzes client service distribution and outcomes across four regions (North, South, East, West) for a TANF-funded program. The goal is to support program evaluation, uncover gaps, and offer data-informed recommendations.
 
 🔗 [Live Tableau Dashboard](https://public.tableau.com/views/TANFPROGRAMDEMO/TANFPROGRAMSUMMARY?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -39,3 +40,7 @@ Consider expanding Counseling to regions currently underserved.
 1. Download the `.twbx` file and open it in Tableau Desktop or Tableau Public.
 2. Interact with filters (Service Type, Outcome) to explore the data.
 3. Hover over visual elements for more details and annotations.
+
+📬 Contact  
+Created by Anthony Fumagalli  
+[GitHub Profile](https://github.com/amfuma) | [LinkedIn](https://linkedin.com/in/anthony-fumagalli)
