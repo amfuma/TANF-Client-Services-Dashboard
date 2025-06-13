@@ -1,0 +1,16 @@
+Client ID,Region,Service Type,Outcome
+001,North,Education,College Enrollment
+002,North,Education,Dropout
+003,North,Counseling,Dropout
+004,East,Job Training,Employed
+005,East,Counseling,Improved Wellbeing
+006,West,Education,Dropout
+007,West,Job Training,Employed
+008,West,Job Training,Employed
+009,South,Education,College Enrollment
+010,South,Counseling,Improved Wellbeing
+011,South,Counseling,Dropout
+012,South,Job Training,Employed
+013,North,Job Training,Employed
+014,East,Education,College Enrollment
+015,East,Counseling,Dropout
